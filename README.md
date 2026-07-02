@@ -16,4 +16,8 @@
 
 ## Run
 
+<<<<<<< HEAD
 python src/ranker.py
+=======
+python src/ranker.py
+>>>>>>> 6c885e498c4bf0d8eaa6356ff660bfc78d40449b
